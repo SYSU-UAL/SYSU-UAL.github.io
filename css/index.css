@@ -6230,3 +6230,8 @@ blockquote.pullquote.right {
   display: none;
   background: rgba(0,0,0,0.6);
 }
+html body .recent-post-item .article-title {
+  font-size: 2.3em !important; /* 可以改成 2.5em 更大 */
+  font-weight: bold !important;
+  line-height: 1.4;
+}
